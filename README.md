@@ -5,13 +5,13 @@ a node lib to turn svg shape elements into path svg elements
 #install
 
 ```js
-npm install svgPathify
+npm install svg_pathify
 ```
 
 # usage
 
 ```js
-var svgPathify = require(svgPathify);
+var svgPathify = require('svg_pathify');
 
 var result = svgPathify('<circle cx="500" cy="500" r="20" fill="red"/>');
 
