@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="10 10 1000 1000">
+
+  <circle cx="500" cy="500" r="20" fill="red"/>
+<g>
+  <path d="M400,400h100v100h-100Z" style="background:#000;"/>
+  <circle cx="100" cy="100" r="60"/>
+</g>
+
+<ellipse cx="220" cy="70" rx="190" ry="20"/>
+
+<polygon points="200,200 300,300 400,200" />
+</svg>
