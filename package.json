@@ -1,6 +1,6 @@
 {
   "name": "svg_pathify",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a node lib to turn svg shape elements into path svg elements",
   "main": "lib/index.js",
   "keywords": [
