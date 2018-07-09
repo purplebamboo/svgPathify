@@ -1,6 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="10 10 1000 1000">
 
   <circle cx="500" cy="500" r="20" fill="red"/>
+  <rect  x="20" y="120" rx="80" ry="20" width="250" height="100" />
+  <rect  x="120" y="220"  ry="20" width="250" height="100" />
+  <rect   y="420" width="250" height="100" />
 <g>
   <path d="M400,400h100v100h-100Z" style="background:#000;"/>
   <circle cx="100" cy="100" r="60"/>
